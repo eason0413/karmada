@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.20.11
+FROM k8s.gcr.io/kube-controller-manager:v1.21.7
 MAINTAINER wangteng
